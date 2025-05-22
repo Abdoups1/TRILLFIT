@@ -1,0 +1,7 @@
+/* === FILE: src/styles/cart.css === */
+
+.cart-container { padding: 20px; }
+
+.checkout-btn { background-color: #262626; color: white; padding: 12px 24px; border: none; border-radius: 6px; font-size: 16px; cursor: pointer; margin-top: 20px; }
+
+.checkout-btn:hover { background-color: #0da752; }
